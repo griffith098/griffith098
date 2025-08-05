@@ -3,7 +3,7 @@
 Hi there! I'm **Dhruv Kumar Pandey**, a passionate developer, AI enthusiast, and B.Tech CSE student.  
 I love building scalable AI applications, working on web development, and optimizing machine learning models.
 
-🔗 **Portfolio:** [Visit My Portfolio](https://griffith098.github.io/PORTFOLIO/)
+
 
 ---
 
